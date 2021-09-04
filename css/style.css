@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    background: url(../images/snake.jpg);
+    color: #622900;
+}
+
+#score {
+    color: #091860;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    background-color: #51424f;
+    color: #fb4f93;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(1.2);
+    color: #00aaa9;
+}
+
+.grid {
+    height: 400px;
+    width: 400px;
+    border: 2px solid;
+    margin: 0 auto;
+    background: #bc7c35;
+    background-size: cover;
+}
