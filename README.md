@@ -2,4 +2,6 @@
 
 ### To-Dos
 
--   [ ] Add js logic for the game
+-   [ ] Style the game better
+-   [ ] Solve generate apple bug
+-   [x] Add js logic for the game
