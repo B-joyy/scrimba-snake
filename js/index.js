@@ -4,7 +4,7 @@ const highScoreDisplay = document.getElementById("high-score");
 const grid = document.querySelector(".grid");
 const foodSound = new Audio("../music/food.mp3");
 const gameOverSound = new Audio("../music/gameOver.mp3");
-const moveSound = new Audio("../music/move.mp3");
+const moveSound = new Audio("https://github.com/B-joyy/scrimba-snake_game/blob/e8e5126e93354c472bf482feaabb7a88350f4433/music/move.mp3");
 const music = new Audio("../music/music.mp3");
 const speed = 0.9;
 
